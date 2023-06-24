@@ -1,0 +1,5 @@
+aiohttp==3.8.*
+dnspython==2.3.*
+git+https://github.com/Pycord-Development/pycord@9d4d0f705c604c17661d916b5b43d37bc8e4013f
+pymongo==4.4.*
+python-dotenv==1.0.*
